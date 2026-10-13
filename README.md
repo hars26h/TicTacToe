@@ -1,2 +1,2 @@
-# TicTacToe
-A game ,TicTacToe
+## TicTacToe
+ .My first Javascipt project, a game, tictactoe
